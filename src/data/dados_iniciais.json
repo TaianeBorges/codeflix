@@ -1,0 +1,219 @@
+{
+  "categorias": [
+    {
+      "titulo": "Termos Usados",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Termos utilizados na Área de Desenvolvimento",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "O que faz um programador?",
+          "url": "https://www.youtube.com/watch?v=PXj7pQR4Nbo"
+        },
+        {
+          "titulo": "Clean Code // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=ln6t3uyTveQ&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=12"
+        },
+        {
+          "titulo": "DDD (Domain-Driven Design) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=GE6asEjTFv8&t=2s"
+        },
+        {
+          "titulo": "DOM (Document Object Model) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=HOv9CqqAZk0&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=32"
+        },
+        {
+          "titulo": "Design Patterns // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=J-lHpiu-Twk&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=29"
+        },
+        {
+          "titulo": "Deploy // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=gJw7l2JKpuQ&list=PLVc5bWuiFQ8GgKm5m0cZE6E02amJho94o&index=28"
+        }
+      ]
+    },
+    {
+      "titulo": "Front-End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": " Desenvolvimento - Front-End",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=11s"
+        },
+        {
+          "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
+        },
+        {
+          "titulo": "CSS Tutorial - Zero to Hero (Complete Course)",
+          "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+        },
+        {
+          "titulo": "O que é JavaScript? | #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q&t=1s"
+        },
+        {
+          "titulo": "Preciso ter bagagem Javascript para iniciar com o React?",
+          "url": "https://www.youtube.com/watch?v=Y5QPsQ6IqKc"
+        }
+      ]
+    },
+    {
+      "titulo": "Back-End",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Desenvolvimento - Back-End",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI&t=2s"
+        },
+        {
+          "titulo": "Deno (A alternativa ao Node.js !?) // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=fVoH6rFU6zw"
+        },
+        {
+          "titulo": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh",
+          "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4"
+        },
+        {
+          "titulo": "[API NodeJS + Express + Mongo] Estrutura e cadastro | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=BN_8bCfVp88"
+        },
+        {
+          "titulo": "TypeScript // Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=gmupEp468lY"
+        }
+      ]
+    },
+    {
+      "titulo": "Mobile",
+      "cor": "#fee11a",
+      "link_extra": {
+        "text": "Desenvolvimento - Mobile",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Programação Mobile - #DevMediaResponde",
+          "url": "https://www.youtube.com/watch?v=6YnSIyoFaAE"
+        },
+        {
+          "titulo": "Como faz um menu mobile com HTML, CSS e JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=2WKH-eRJ2O0"
+        },
+        {
+          "titulo": "Aprenda SWIFT e se torne um desenvolvedor IOS com cursos GRATUITOS",
+          "url": "https://www.youtube.com/watch?v=OV47giYphmk"
+        },
+        {
+          "titulo": "CURSO DE KOTLIN 2020 - TUTORIAL PARA INICIANTES ANDROID",
+          "url": "https://www.youtube.com/watch?v=r_6Ku38sA-c"
+        },
+        {
+          "titulo": "Iniciando com React Native em 2019 | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=XcU9GEUZTQA"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos Front-End",
+      "cor": "pink",
+      "link_extra": {
+        "text": "Projetos para Desenvolvimento Front-End",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Twitter Responsivo com ReactJS | UI Clone",
+          "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o&t=1669s"
+        },
+        {
+          "titulo": "Criando APPs responsivos com React e Bulma | React em 8 minutos!",
+          "url": "https://www.youtube.com/watch?v=Yxkti4L6-Wk"
+        },
+        {
+          "titulo": "Como implementar um LOGIN em React.JS Com React Router e Context API em 20 minutos",
+          "url": "https://www.youtube.com/watch?v=FVxdFxxkdDI"
+        },
+        {
+          "titulo": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+          "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI"
+        },
+        {
+          "titulo": "Programei em React JS o Frontend do AirCnC (usando React Hooks como useEffect e useMemo)",
+          "url": "https://www.youtube.com/watch?v=Gmiz-j_K340"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos Back-end",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Projetos para Desenvolvimento Back-End",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Upload de arquivos: back-end com NodeJS | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=MkkbUfcZUZM"
+        },
+        {
+          "titulo": "API com Node.JS - Passo 10 - Upload de Imagens",
+          "url": "https://www.youtube.com/watch?v=YM5TTZm8yRY"
+        },
+        {
+          "titulo": "Upload com NodeJS+Express - Hands-on: Multer",
+          "url": "https://www.youtube.com/watch?v=FKnDvu_eODY"
+        },
+        {
+          "titulo": "Seja um programador backend de Sucesso - vlog #98 | ptbr",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI"
+        },
+        {
+          "titulo": "Project Manager (Backend) - Criando o Projeto e Executando a Primeira Migration!!! (Parte 1)",
+          "url": "https://www.youtube.com/watch?v=eDjmkV_kWBU"
+        }
+      ]
+    },
+    {
+      "titulo": "Projetos Mobile",
+      "cor": "#478800",
+      "link_extra": {
+        "text": "Projetos para Desenvolvimento Mobile (Android / IOS)",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "COMO CRIAR APLICATIVO APP PARA CELULAR ANDROID E IOS IPHONE GRÁTIS PROGRESSIVE WEB APP PWA",
+          "url": "https://www.youtube.com/watch?v=dr7XodlI0JE"
+        },
+        {
+          "titulo": "Como criar a sua primeira aplicaçao Kotlin com Spring",
+          "url": "https://www.youtube.com/watch?v=iNeYefuqj-E"
+        },
+        {
+          "titulo": "Build To Do List App in Swift 5 (Xcode 11) - 2020 Beginners",
+          "url": "https://www.youtube.com/watch?v=4R9DJxjmSCk"
+        },
+        {
+          "titulo": "Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=DDm0M_rZLJo&t=3s"
+        },
+        {
+          "titulo": "Clonando a interface do PicPay com React Native - Parte #01",
+          "url": "https://www.youtube.com/watch?v=0CraBZHejKI&t=775s"
+        }
+      ]
+    }
+  ]
+}
